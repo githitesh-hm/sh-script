@@ -1,0 +1,10 @@
+System Report..
+
+cpu usage
+0% used
+
+memory usage
+240% used
+ 
+disk usage
+18%% used
